@@ -1,7 +1,5 @@
 # Saudação Dev(a)! <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 
-<img src="https://placehold.co/200x150" width="200px" align="right" >
-
 - :computer: Desenvolvedor Back-end
 - :open_book: Em constante aprendizado
 - :mortar_board: Formado em pedagogia - FAI
