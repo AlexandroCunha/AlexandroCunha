@@ -1,6 +1,6 @@
 # Saudação Dev(a)! :space_invader:
 
-<img src="https://icons8.com.br/illustrations/illustration/coworking-male-programmer-writing-program-code/200x150" width="200px" align="right" >
+<img src="https://icons8.com.br/illustrations/illustration/gummy-coding/200x150" width="200px" align="right" >
 
 
 - :computer: Desenvolvedor Back-end
