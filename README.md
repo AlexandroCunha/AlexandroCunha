@@ -13,6 +13,5 @@
 ![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
 
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=jessicamedeirosp&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ![Jess GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamedeirosp&show_icons=true&theme=radical)
