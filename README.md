@@ -1,12 +1,12 @@
-# Saudação Dev(a)! :dart:
+# Saudação Dev(a)! <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 
 <img src="https://placehold.co/200x150" width="200px" align="right" >
 
-- :computer: Desenvolvedora +9XP
-- :open_book: Instrutora FullStack na Cubos Academy
-- :mortar_board: Formada em Segurança da Informação - Fatec
+- :computer: Desenvolvedor Back-end
+- :open_book: Em constante aprendizado
+- :mortar_board: Formado em pedagogia - FAI
 - :clapper: Youtuber e Blogueira nas horas vagas
-- :video_game: Jogo PubG | The Last of US | Fifa
+- :video_game: Wild Rift | The Last of US | Cyber Hunter
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessicamedeirospocarli/)
 
