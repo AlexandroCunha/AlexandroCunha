@@ -1,11 +1,19 @@
-### Oi, eu sou o Alexandro. Esse é meu git 
+# Saudação Dev(a)! :dart:
 
-- 🔭 Sou estudante de desenvolvimento de software backend
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: O tempo passa voando quando começoa estudar
--->
-<img src="https://github-readme-stats.vercel.app/api?username=AlexandroCunha&show_icons=true" />
-</picture>
+<img src="https://placehold.co/200x150" width="200px" align="right" >
 
-<div style="display: inline_block"><br> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+- :computer: Desenvolvedora +9XP
+- :open_book: Instrutora FullStack na Cubos Academy
+- :mortar_board: Formada em Segurança da Informação - Fatec
+- :clapper: Youtuber e Blogueira nas horas vagas
+- :video_game: Jogo PubG | The Last of US | Fifa
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessicamedeirospocarli/)
+
+### Skills:
+
+![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
+
+
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=jessicamedeirosp&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
