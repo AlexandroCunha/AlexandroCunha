@@ -1,4 +1,4 @@
-# Saudação Dev(a)! <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
+# Saudação Dev(a)! :space_invader:
 
 - :computer: Desenvolvedor Back-end
 - :open_book: Em constante aprendizado
