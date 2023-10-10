@@ -14,4 +14,4 @@
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
 
 
-![Jess GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamedeirosp&show_icons=true&theme=radical)
+![Jess GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandroCunha&show_icons=true&theme=radical)
