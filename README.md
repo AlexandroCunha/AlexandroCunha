@@ -3,7 +3,7 @@
 - :computer: Desenvolvedor Back-end
 - :open_book: Em constante aprendizado
 - :mortar_board: Formado em pedagogia - FAI
-- :shower: Cantor de chuveiro e amo correr no tempo livre
+- :shower: Cantor de chuveiro e apoixonado por correr no tempo livre
 - :video_game: Wild Rift | The Last of US | Cyber Hunter
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessicamedeirospocarli/)
