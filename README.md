@@ -1,5 +1,5 @@
 # Saudação Dev(a)! :space_invader:
-Illustration by <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
 - :computer: Desenvolvedor Back-end
 - :open_book: Em constante aprendizado
 - :mortar_board: Formado em pedagogia - FAI
