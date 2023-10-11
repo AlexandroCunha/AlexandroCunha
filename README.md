@@ -7,6 +7,9 @@
 - :video_game: Wild Rift | The Last of US | Cyber Hunter
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessicamedeirospocarli/)
+<a href="alexandrocunha4@gmail.com">
+<img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
+</a>
 
 ### Skills:
 
