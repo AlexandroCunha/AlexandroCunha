@@ -1,4 +1,4 @@
-# Saudação Dev(a)! :space_invader:
+# Olá, eu sou o Alex! :space_invader:
 
 - :computer: Desenvolvedor Back-end
 - :open_book: Em constante aprendizado
