@@ -11,7 +11,7 @@
 - :video_game: Wild Rift | The Last of US | Cyber Hunter
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessicamedeirospocarli/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandrocunha/)
 
 
 ### Skills:
