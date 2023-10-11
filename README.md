@@ -1,13 +1,13 @@
 # Olá, eu sou o Alex! :space_invader:
 
 - :computer: Desenvolvedor Back-end
-  <a href="alexandrocunha4@gmail.com">
-<img src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif" width="50px" />
-</a>
 - :open_book: Em constante aprendizado
 - :mortar_board: Formado em pedagogia - FAI
 - :shower: Cantor de chuveiro e apoixonado por correr no tempo livre
 - :video_game: Wild Rift | The Last of US | Cyber Hunter
+   <a href="alexandrocunha4@gmail.com">
+<img src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif" width="50px" />
+</a>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessicamedeirospocarli/)
 
