@@ -1,6 +1,5 @@
 # Saudação Dev(a)! :space_invader:
 
-
 - :computer: Desenvolvedor Back-end
 - :open_book: Em constante aprendizado
 - :mortar_board: Formado em pedagogia - FAI
