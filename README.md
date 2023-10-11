@@ -8,7 +8,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessicamedeirospocarli/)
 <a href="alexandrocunha4@gmail.com">
-<img src="https://tenor.com/pt-BR/view/trial-gif-25576997" width="50px" />
+<img src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif" width="50px" />
 </a>
 
 ### Skills:
