@@ -1,7 +1,5 @@
 # Saudação Dev(a)! :space_invader:
 
-<img src="https://icons8.com.br/illustrations/illustration/gummy-coding/2500x2500" width="200px" align="right" >
-
 
 - :computer: Desenvolvedor Back-end
 - :open_book: Em constante aprendizado
