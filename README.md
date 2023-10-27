@@ -7,7 +7,7 @@
 - :computer: Desenvolvedor Back-end
 - :open_book: Em constante aprendizado
 - :mortar_board: Formado em pedagogia - FAI
-- :shower: Cantor de chuveiro e apoixonado por correr no tempo livre
+- :shower: Cantor de chuveiro e apaixonado por correr no tempo livre
 - :video_game: Wild Rift | The Last of US | Cyber Hunter
 
 
