@@ -21,6 +21,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
 ![Typescrypt](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=black)
 ![Imsomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=insomnia&logoColor=black)
-![Typescrypt](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=black)
+![PoategreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgreSQL&logoColor=black)
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AlexandroCunha&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
