@@ -17,7 +17,7 @@
 
 ### Skills:
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
 ![Typescrypt](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=black)
 ![Imsomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=insomnia&logoColor=black)
