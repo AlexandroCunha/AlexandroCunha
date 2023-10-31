@@ -11,7 +11,7 @@
 - :video_game: Wild Rift | The Last of US | Cyber Hunter
 
 
-### Contatos:
+### Contacts:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexandrocunha4@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrocunha/)
