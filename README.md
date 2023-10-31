@@ -35,3 +35,5 @@
   
 </div>
   ![Snake animation](https://github.com/AlexandroCunha/AlexandroCunha/blob/output/github-contribution-grid-snake-dark.svg)
+
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=AlexandroCunha&repo=AlexandroCunha&theme=react)](https://github.com/AlexandroCunha/AlexandroCunha)
