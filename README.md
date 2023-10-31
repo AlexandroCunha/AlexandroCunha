@@ -42,7 +42,7 @@
 - uses: Platane/snk@v3
   with:
     
-    github_user_name: ${{ https://github.com/AlexandroCunha }}
+    github_user_name: ${{ AlexandroCunha }}
 
     outputs: |
       dist/github-snake.svg
