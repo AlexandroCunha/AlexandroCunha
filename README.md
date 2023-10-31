@@ -35,11 +35,5 @@
   </a>
 </div>
 
-  <picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AlexandroCunha/AlexandroCunha/output/github-contribution-grid-snake.svg"
-  />
-</picture>
   
 
