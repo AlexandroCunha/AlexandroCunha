@@ -28,8 +28,9 @@
 <!--![Typescrypt](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)-->
 
 <!--[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AlexandroCunha&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)-->
+
 <div align="center">
 
-  ![Snake animation](https://github.com/AlexandroCunha/AlexandroCunha/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AlexandroCunha/blob/output/github-contribution-grid-snake.svg)
   
 </div>
