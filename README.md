@@ -39,8 +39,6 @@
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=AlexandroCunha&repo=AlexandroCunha&theme=react)](https://github.com/AlexandroCunha/AlexandroCunha)
 
 
-- uses: Platane/snk@v3
-  with:
     
     github_user_name: ${{ AlexandroCunha }}
 
