@@ -11,9 +11,9 @@
 - :video_game: Wild Rift | The Last of US | Cyber Hunter
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexandrocunha4@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/alexandrocunha)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandrocunha/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=black)](mailto:alexandrocunha4@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=black](https://discord.com/alexandrocunha)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/alexandrocunha/)
 
 
 ### Skills:
