@@ -12,7 +12,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=black)](mailto:alexandrocunha4@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=black](https://discord.com/alexandrocunha)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=black)](https://discord.com/alexandrocunha)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/alexandrocunha/)
 
 
