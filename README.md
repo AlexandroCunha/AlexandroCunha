@@ -34,11 +34,6 @@
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandroCunha&show_icons=true&theme=rdefault#gh-light-mode-only&include_all_commits=true&count_private=true"/>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroCunha&layout=compact&langs_count=7&theme=default#gh-light-mode-only"/>
 
-![Snake animation](https://github.com/AlexandroCunha/AlexandroCunha/blob/output/github-contribution-grid-snake-dark.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AlexandroCunha&repo=AlexandroCunha&theme=react)](https://github.com/AlexandroCunha/AlexandroCunha)
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -46,4 +41,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)
+_generated with [AlexandroCunha/snk](https://github.com/AlexandroCunha/snk)
