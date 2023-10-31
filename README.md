@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Imsomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=insomnia&logoColor=white)
 ![PoategreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgreSQL&logoColor=white)
-<!--![Typescrypt](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)-->
+![Typescrypt](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 <!--[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AlexandroCunha&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)-->
 
@@ -34,16 +34,16 @@
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandroCunha&show_icons=true&theme=rdefault#gh-light-mode-only&include_all_commits=true&count_private=true"/>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandroCunha&layout=compact&langs_count=7&theme=default#gh-light-mode-only"/>
 
-  ![Snake animation](https://github.com/AlexandroCunha/AlexandroCunha/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/AlexandroCunha/AlexandroCunha/blob/output/github-contribution-grid-snake-dark.svg)
 
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=AlexandroCunha&repo=AlexandroCunha&theme=react)](https://github.com/AlexandroCunha/AlexandroCunha)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AlexandroCunha&repo=AlexandroCunha&theme=react)](https://github.com/AlexandroCunha/AlexandroCunha)
 
 
-    
-    github_user_name: ${{ AlexandroCunha }}
 
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)
