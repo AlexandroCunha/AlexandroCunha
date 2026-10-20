@@ -1,4 +1,4 @@
-# Hi, I'm Alex 👋
+# Hi, I'm Alexandro 👋
 
 <div align="center">
   <img src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif" alt="Animated GIF of a character waving hello" width="190">
