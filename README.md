@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Alexandro 👋
 
-<!--
-**AlexandroCunha/AlexandroCunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brazilian software developer based in Dublin, Ireland. I focus on backend development and I'm growing towards data science and analytics.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Barbershop Platform**: multi-tenant online booking for barbershops (TypeScript, Express, React, PostgreSQL). https://github.com/AlexandroCunha/barbershop-platform
+- **Financify**: REST API for personal finance management (JavaScript, Node.js, PostgreSQL). https://github.com/AlexandroCunha/Financify
+- **Vocabloom**: turns PDFs into interactive English worksheets (JavaScript, Node.js, Claude API). https://github.com/AlexandroCunha/vocabloom
+
+### Tech
+
+JavaScript · TypeScript · Node.js · Express · PostgreSQL · Git
+
+### Find me
+
+- Portfolio: https://alexandrocunha.github.io
+- LinkedIn: https://www.linkedin.com/in/alexandrocunha/
